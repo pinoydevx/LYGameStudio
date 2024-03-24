@@ -2,10 +2,10 @@ This small project has been divided into several user stories, of which, a featu
 corresponding level of effort/estimate base on fibonacci numbers (same approach to www.scrumpoker-online.org)
 
 • Registration			----> 1 point
-	- Select Avatar		
-• Login					----> 1 point
-	- Logout			
-• Store					----> 13 points
+	- Select Avatar		----> 1 point
+• Login/Logout			----> 1 point
+			
+• Store				----> 13 points
 	- To buy dice, boards, costumes for player Avatar etc
 • Leaderboard			---->  3 points
 	- Show stats
@@ -13,8 +13,8 @@ corresponding level of effort/estimate base on fibonacci numbers (same approach 
 There are other behind the scene time estimate namely
 
 * Change Identity and Database from SQL to MongoDb	-----> 3 points
-* CRUD & Services						                        -----> 3 points
-* API												                        -----> 5 point
+* CRUD & Services					-----> 3 points
+* API							-----> 5 point
 
 Each point equates to:
 1 -	1 to 4 hours	(less than a day)
