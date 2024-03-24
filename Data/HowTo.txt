@@ -1,0 +1,17 @@
+﻿Install MongoDB for windows
+Download MongoDB Shell command line.
+Add to environment variables in PATH, where the mongodb bin files was installed
+	(.e.g C:\Program Files\MongoDB\Server\7.0\bin)
+Open Command prompt type mongod --dbpath <path location of mongo database>
+	(.e.g. mongod --dbpath c:\workarea\mongodatabase\LYStudio)
+
+Type mongosh
+	type use LYStudio
+	create the profiles collection by issuing:  db.createCollection('Profiles')
+	
+	create a sample data 
+	db.Profiles.insertMany([{"Name":"Maxi Max","Email":"Madmax@gmail.com","Age":20, "Avatar": ""},{"Name":"Dev Lon","Email":"DevonAI@gmail.com","Age":15, "Avatar": ""}])
+
+	do the same with  Users
+
+(Note: Please get the collections from the Data folder)

@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$binary": {
+      "base64": "mFnbIUQKTMCTA5xcoGmmmQ==",
+      "subType": "04"
+    }
+  },
+  "UserName": "junestevez",
+  "NormalizedUserName": "JUNESTEVEZ",
+  "Email": "jun.estevez.ph@gmail.comm",
+  "NormalizedEmail": "JUN.ESTEVEZ.PH@GMAIL.COMM",
+  "EmailConfirmed": false,
+  "PasswordHash": "AQAAAAIAAYagAAAAEFsD+cAcJRD0F5dF7AVkgwlNh7weEdIv8xRN/7liTh6jrUXicFv34g8kBvNPQ16sPg==",
+  "SecurityStamp": "62AECTWRBMJZNPUWIF6IKAAX2AES5GER",
+  "ConcurrencyStamp": "1d6fa478-34c1-4cf6-b79f-bc77c67c62f0",
+  "PhoneNumber": null,
+  "PhoneNumberConfirmed": false,
+  "TwoFactorEnabled": false,
+  "LockoutEnd": null,
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "Version": 1,
+  "CreatedOn": {
+    "$date": "2024-03-24T11:34:43.062Z"
+  },
+  "Claims": [],
+  "Roles": [],
+  "Logins": [],
+  "Tokens": []
+},
+{
+  "_id": {
+    "$binary": {
+      "base64": "6obMn55RRMWG2FB3nLHxNw==",
+      "subType": "04"
+    }
+  },
+  "UserName": "devin",
+  "NormalizedUserName": "DEVIN",
+  "Email": "devin@gmail.com",
+  "NormalizedEmail": "DEVIN@GMAIL.COM",
+  "EmailConfirmed": false,
+  "PasswordHash": "AQAAAAIAAYagAAAAEHC5XgFt8CoI7n8KiCoJfcr1mWcex8eayFkKAmJREv63SMCro84EcB4ij6HuElRYuA==",
+  "SecurityStamp": "V3WG4SW3B2FTVZZIBKJ6HIAJJYUPDCYN",
+  "ConcurrencyStamp": "c954e0bb-e94c-4f22-9b27-6d72293686b6",
+  "PhoneNumber": null,
+  "PhoneNumberConfirmed": false,
+  "TwoFactorEnabled": false,
+  "LockoutEnd": null,
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "Version": 1,
+  "CreatedOn": {
+    "$date": "2024-03-24T13:26:54.178Z"
+  },
+  "Claims": [],
+  "Roles": [],
+  "Logins": [],
+  "Tokens": []
+},
+{
+  "_id": {
+    "$binary": {
+      "base64": "1Pxf3/laSN+JeDIlc95JTQ==",
+      "subType": "04"
+    }
+  },
+  "UserName": "jessiely",
+  "NormalizedUserName": "JESSIELY",
+  "Email": "jessiely@yahoo.com",
+  "NormalizedEmail": "JESSIELY@YAHOO.COM",
+  "EmailConfirmed": false,
+  "PasswordHash": "AQAAAAIAAYagAAAAEPdfMWE1bLJYigOtnjtbKavhCkowARItKXb24x+Ubl2GZLw/6I6zOC6z4nfXJYwwQw==",
+  "SecurityStamp": "4AHXJL6GRYNWCPHLXCDZV62PHBADGTHP",
+  "ConcurrencyStamp": "35c308be-0ce0-4d90-bf03-01e1862940d5",
+  "PhoneNumber": null,
+  "PhoneNumberConfirmed": false,
+  "TwoFactorEnabled": false,
+  "LockoutEnd": null,
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "Version": 1,
+  "CreatedOn": {
+    "$date": "2024-03-24T13:38:00.819Z"
+  },
+  "Claims": [],
+  "Roles": [],
+  "Logins": [],
+  "Tokens": []
+},
+{
+  "_id": {
+    "$binary": {
+      "base64": "ByjbPRrRQkCZ3EcvcgsPEA==",
+      "subType": "04"
+    }
+  },
+  "UserName": "junestevez1",
+  "NormalizedUserName": "JUNESTEVEZ1",
+  "Email": "jun.estevez.net@gmail.com",
+  "NormalizedEmail": "JUN.ESTEVEZ.NET@GMAIL.COM",
+  "EmailConfirmed": false,
+  "PasswordHash": "AQAAAAIAAYagAAAAECX8GenskzBqT9pQ7clBGt/bxjD1eEppyaBTMyuQuDDw5CvuAEgxHqx8dQ1O02WxKg==",
+  "SecurityStamp": "3WAZ6HZJHEOW3LP5OZ3LEJT5DVVQKC5E",
+  "ConcurrencyStamp": "238d8555-2407-41fe-aa4c-650754c6ca0d",
+  "PhoneNumber": null,
+  "PhoneNumberConfirmed": false,
+  "TwoFactorEnabled": false,
+  "LockoutEnd": null,
+  "LockoutEnabled": true,
+  "AccessFailedCount": 0,
+  "Version": 1,
+  "CreatedOn": {
+    "$date": "2024-03-24T13:43:58.082Z"
+  },
+  "Claims": [],
+  "Roles": [],
+  "Logins": [],
+  "Tokens": []
+}]

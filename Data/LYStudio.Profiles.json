@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "6600271765772d733cd14a10"
+  },
+  "Name": "Maxi Max",
+  "Email": "Madmax@gmail.com",
+  "Age": 20,
+  "Avatar": ""
+},
+{
+  "_id": {
+    "$oid": "6600271765772d733cd14a11"
+  },
+  "Name": "Dev Lon",
+  "Email": "DevonAI@gmail.com",
+  "Age": 15,
+  "Avatar": ""
+},
+{
+  "_id": {
+    "$oid": "66002cb86c4b95e196f21f44"
+  },
+  "Name": "jessiely",
+  "Email": "jessiely@yahoo.com",
+  "Age": 0,
+  "Avatar": ""
+},
+{
+  "_id": {
+    "$oid": "66002e1e627aa7a79cf5ff61"
+  },
+  "Name": "junestevez1",
+  "Email": "jun.estevez.net@gmail.com",
+  "Age": 0,
+  "Avatar": ""
+}]
